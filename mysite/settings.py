@@ -143,7 +143,7 @@ LOGGING = {
         'file': {
             'level': 'INFO',
             'class': 'logging.FileHandler',
-            'filename': 'slacknlp.log',
+            'filename': 'montecarlo.log',
         },
         'console': {
             'level': 'INFO',
